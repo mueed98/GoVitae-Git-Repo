@@ -1,4 +1,4 @@
-# [GoVitae-Git-Repo](govitae.herokuapp.com)
+# [GoVitae-Git-Repo](https://govitae.herokuapp.com/)
 
 BlockChain CV FYP Repository
 
